@@ -51,3 +51,6 @@ cypress.env.json
 
 # cypress
 cypress/videos
+
+# auto-added by meta-ops
+Thumbs.db
